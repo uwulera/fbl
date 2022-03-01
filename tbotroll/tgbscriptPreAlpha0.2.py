@@ -34,7 +34,7 @@ class isheet:
     sid1 = '1сем-Осень'
     sid2 = '2сем-Весна'
     google_token = '1//0ckdqe3fJ4-LRCgYIARAAGAwSNwF-L9IrmPKSdeA2eL0DzmYocxM9J5oENiVZZzcfSix2f9DtcdmC89OJbimZdoWiSuCfu5ikeVc'
-    tgbot_token = "1277500164:AAEkU8DbjZX0E6wRa3JDKUKumIjlOuSLsRM"
+    tgbot_token = "5106881937:AAEqlvsAGDY51CQlwsd0PrjFLVr6Wo-5HZs"
     url_token = "https://oauth2.googleapis.com/token"
     gclient_id = "173493138930-85ifhekbvi7iak312hvbcok3f8466hn6.apps.googleusercontent.com"
     gclient_secret = "wVPZmRRZquXcrcZ53Ygryj7C"
